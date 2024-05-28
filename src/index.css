@@ -1,0 +1,44 @@
+:root{
+  --bg-main: #f3f3f3;
+}
+
+
+.bg-main-color{
+  background-color: var(--bg-main);
+}
+
+.min-height{
+  height: 100dvh;
+}
+.product:hover{
+  border: 1px solid black;
+  
+}
+
+a:hover{
+  text-decoration: none;
+  color: black;
+}
+.inputStyle {
+  width: 100%;
+  border: none;
+  padding: 5px;
+  border-bottom: 2px solid gainsboro;
+  outline: none;
+  background-color: var(--bg-main);
+}
+.inputStyle:hover{
+  border: none;
+  border-bottom: 2px solid black;
+}
+.cursor{
+  cursor: pointer;
+}
+
+.money-color{
+  color: #f8796c;
+}
+
+.star-Product{
+  color: rgb(212, 212, 30);
+}
