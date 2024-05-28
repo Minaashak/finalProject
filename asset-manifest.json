@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/finalProject/static/css/main.36f0baca.css",
+    "main.js": "/finalProject/static/js/main.e46302fb.js",
+    "static/js/453.5e560239.chunk.js": "/finalProject/static/js/453.5e560239.chunk.js",
+    "static/media/Logo.png": "/finalProject/static/media/Logo.c2c6290f1cd34ddbf546.png",
+    "static/media/fa-solid-900.ttf": "/finalProject/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/Product.webp": "/finalProject/static/media/Product.e88892dc34c686bb4f14.webp",
+    "static/media/fa-brands-400.ttf": "/finalProject/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/finalProject/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/Home.jpg": "/finalProject/static/media/Home.14a35a41ab099302af07.jpg",
+    "static/media/fa-brands-400.woff2": "/finalProject/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/finalProject/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/info-4.webp": "/finalProject/static/media/info-4.4840f21e9233ed799105.webp",
+    "static/media/info-2.webp": "/finalProject/static/media/info-2.7ca041edeaa0b1807763.webp",
+    "static/media/info-1.webp": "/finalProject/static/media/info-1.3d48a1a30738df605141.webp",
+    "static/media/info-3.webp": "/finalProject/static/media/info-3.b359d9af814f6196a1d1.webp",
+    "static/media/fa-regular-400.woff2": "/finalProject/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/product-2.jpg": "/finalProject/static/media/product-2.2ccab472f2877a681f0b.jpg",
+    "static/media/page-title-1.webp": "/finalProject/static/media/page-title-1.dbf5897f4d01135214b4.webp",
+    "static/media/fa-v4compatibility.ttf": "/finalProject/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/finalProject/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/finalProject/index.html",
+    "main.36f0baca.css.map": "/finalProject/static/css/main.36f0baca.css.map",
+    "main.e46302fb.js.map": "/finalProject/static/js/main.e46302fb.js.map",
+    "453.5e560239.chunk.js.map": "/finalProject/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f0baca.css",
+    "static/js/main.e46302fb.js"
+  ]
+}
